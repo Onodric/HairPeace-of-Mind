@@ -1,0 +1,87 @@
+
+
+
+
+
+						/*COLOR SCHEME*/
+/*        #c0b283         #dcd0c0        #f4f4f4           #373737        */
+
+
+
+body {
+	background-image: url("../images/hair-background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+main {
+	width: 90%;
+	margin: auto;
+	clear: right;
+	clear: left;
+}
+
+header {
+	/*height: 90px;*/
+
+}
+
+/*
+#brand {
+	height: 10%;
+}*/
+
+#navBar {
+	background: #373737 url("../images/navbar-bg.png") no-repeat center/100%;
+	/*height: 10%;*/
+	float: left;
+	width: 100%;
+}
+
+#navBar ul {
+	list-style-type: none;
+}
+
+#navBar li {
+	float: right;
+	margin: 2em;
+	color: white;
+}
+
+#pageWrapper {
+	background-color: #dcd0c0;
+	border: 2px solid #373737;
+	min-height: 600px;
+	padding: 5px;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+a {
+	color: #f4f4f4;
+}
+
+
+footer {
+	text-align: center;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	color: white;
+	padding: .75em;
+	background: #373737 url("../images/footer-bg.png") no-repeat center/100%;
+}
+
+/*#ZachsImg {
+	styling for the image would go here
+}*/
+
+/*#exampleId {
+	styling for your specific page
+}
+	*/
