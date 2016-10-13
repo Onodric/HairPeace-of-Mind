@@ -99,6 +99,23 @@
 	padding: 5px;
 	margin: auto;
 	margin-bottom: 2em;
+
+}
+a.productlink {
+	color: brown;
+}
+
+#aboutWrapper a {
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+
+
+ #aboutWrapper a:hover, a:active, a:focus {
+	color:#f4f4f4 ;
+	text-decoration: none;
 }
 
 footer {
