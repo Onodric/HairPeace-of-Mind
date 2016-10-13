@@ -1,0 +1,155 @@
+#wig {
+	margin-left: 34%;*/
+	margin-top: 15px;
+	margin-bottom: 15px;
+	max-height: 300px;
+	max-width: 450px;
+	border: 2px solid #373737;
+
+	
+}
+
+#first-line  {
+
+	margin-top: 25px;
+	line-height: 0.5em;
+}
+ 
+
+
+
+
+#second-line {
+
+	margin-left: 60%;
+	margin-top: 13px;
+	line-height: 0.75em;
+	padding: 0px;
+}
+
+#Third-line {
+
+	margin-left: 63%;
+	margin-top: 13px;
+}	
+
+#fourth-line {
+	margin-left: 61%;
+	margin-top: 13px;
+}
+
+#wig1 {
+	width: 280px;
+	max-height: 250px;
+	margin-left: 14%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #373737;
+}
+
+#wig2 {
+	width: 280px;
+	max-height: 250px;
+	margin-left: 14%;
+	margin-top: 5px;
+	border: 1px solid #373737;
+}
+
+#wig3 {
+	width: 280px;
+	margin-left: 14%;
+	margin-top: 10px;
+	border: 1px solid #373737;
+}
+#wig4 {
+	width: 280px;
+	margin-left: 14%;
+	margin-top: 10px;
+	border: 1px solid #373737;
+}
+#paragraph1 {
+	float: right;
+	width: 600px;
+	margin-right: 13%;
+	font-size: 1.2em;
+	margin-top: 0px;
+	padding: 0px 0px 0px 0px;
+
+}
+
+
+#paragraph2 {
+	float: right;
+	width: 600px;
+	margin-right: 13%;
+	font-size: 1.2em;
+
+}
+#paragraph3 {
+
+	float: right;
+	width: 600px;
+	margin-right: 13%;
+	font-size: 1.2em;
+}
+#pageWrapper {
+	background-color: #dcd0c0;
+	border: 2px solid #373737;
+	min-height: 600px;
+	padding: 5px;
+	margin: auto;
+	margin-bottom: 2em;
+
+}
+a.productlink {
+	color: brown;
+}
+
+#aboutWrapper a {
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+
+
+ #aboutWrapper a:hover, a:active, a:focus {
+	color:#f4f4f4 ;
+	text-decoration: none;
+}
+
+footer {
+	text-align: center;
+	position: relative;
+	width: 100%;
+	bottom: 0;
+	color: white;
+	padding: .75em;
+	background: #373737 url("../images/footer-bg.png") no-repeat center/100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
