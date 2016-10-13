@@ -1,3 +1,4 @@
+
 var productArray = [
   {
     productName: 'Zachs',
@@ -36,26 +37,26 @@ var productArray = [
     imgURL: 'http://gloimg.rosegal.com/rosegal/2015/201510/source-img/1444260653640-P-3219754.jpg',
   },
   {
-    productName: 'Julia',
-    description: 'one wig',
-    productPrice: '$ one million dollars',
-    imgURL: 'http://gloimg.rosegal.com/rosegal/2015/201510/source-img/1444260653640-P-3219754.jpg',
+    productName: 'Top Secret 18 by Jonas R',
+    description: '100% REmy Human Hair| Color 6RN Brown with Light Red Golden',
+    productPrice: '$ 1161.25',
+    imgURL: 'images/js-jkc-wig1.jpg',
   },
   {
-    productName: 'Julia',
-    description: 'one wig',
-    productPrice: '$ one million dollars',
-    imgURL: 'http://gloimg.rosegal.com/rosegal/2015/201510/source-img/1444260653640-P-3219754.jpg',
+    productName: 'Top Style Exclusive By Judy J',
+    description: '100% Remy HUman Hair| Color 6RN Red Golden Brown',
+    productPrice: '$ 1389.75',
+    imgURL: 'images/js-jkc-wig2.jpg',
   },
   {
-    productName: 'Julia',
-    description: 'one wig',
-    productPrice: '$ one million dollars',
-    imgURL: 'http://gloimg.rosegal.com/rosegal/2015/201510/source-img/1444260653640-P-3219754.jpg',
+    productName: 'Top Style HH 12 Exclusive By Jay Jeane',
+    description: 'Top Style 12" Exclusive | 100% Remy Human Hair | Color 12FS8 Light Golden Brown',
+    productPrice: '$ 1998.90',
+    imgURL: 'images/js-jkc-wig3.jpg',
   },
   {
     productName: 'Ben',
-    description: 'one wig',
+    description: '',
     productPrice: '$ one million dollars',
     imgURL: 'http://gloimg.rosegal.com/rosegal/2015/201510/source-img/1444260653640-P-3219754.jpg',
   },
