@@ -1,0 +1,51 @@
+/*1. The entire card has a solid 1px border that is `lightblue`.*/
+.card {
+  margin-left: 2.333%;
+  margin-bottom: 1%;
+  width: 30%;
+  border: 1px solid lightblue;
+  /*border-radius: .5em;*/
+  float: left;
+}
+
+/*1. The card title has a dotted 1px border that is `lightgray`.*/
+.card h1 {
+  padding: .5em;
+  border: 1px dotted lightgray;
+  margin: 0;
+  /*border-radius: .5em;*/
+}
+
+.img-product {
+  width: 60%;
+  margin: 1em 20%;
+}
+
+
+/*1. Notice that the text for the description in the image is justified.*/
+.desc-text {
+  font-size: 1.2em;
+  font-weight: 600;
+  text-align: justify;
+}
+
+.desc-text,
+.specs,
+.pricing {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.pricing {
+  margin-top: -1em;
+}
+
+article:last-child {
+  margin-bottom: 80px;
+}
+
+#pageWrapper {
+  float: left;
+  margin-left: 5%;
+  /*width: 90%;*/
+}
