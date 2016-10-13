@@ -1,22 +1,22 @@
 
 var productArray = [
   {
-    productName: 'Zachs',
-    description: 'one wig',
-    productPrice: '$ one million dollars',
-    imgURL: 'http://gloimg.rosegal.com/rosegal/2015/201510/source-img/1444260653640-P-3219754.jpg',
+    productName: 'Freedom',
+    description: 'Fits on All Eagles',
+    productPrice: '$ FREE',
+    imgURL: 'images/eagle.jpg',
   },
   {
-    productName: 'Zach',
-    description: 'one wig',
-    productPrice: '$ one million dollars',
-    imgURL: 'http://gloimg.rosegal.com/rosegal/2015/201510/source-img/1444260653640-P-3219754.jpg',
+    productName: 'Signature Style',
+    description: 'Wigs like this will give you all the confidence you need in life! Maybe enough to help you understand git and github?',
+    productPrice: '$99.99',
+    imgURL: 'images/drOdd.jpg',
   },
   {
-    productName: 'Zach',
-    description: 'one wig',
-    productPrice: '$ one million dollars',
-    imgURL: 'http://gloimg.rosegal.com/rosegal/2015/201510/source-img/1444260653640-P-3219754.jpg',
+    productName: 'Baby Wig',
+    description: 'Tired of hairless babies and toddlers? This wig is for you!',
+    productPrice: '$40.99',
+    imgURL: 'images/baby-toupees.jpeg',
   },
   {
     productName: 'Sam',
