@@ -1,0 +1,46 @@
+#pageWrapper h2 {
+  text-align: center;
+}
+
+.clearset {
+  clear: both;
+}
+
+.bm-social {
+  width: 40%;
+  margin-right: 3%;
+  float: right;
+}
+
+.bm-social fieldset{
+  display: inline-block;
+  width: 40%;
+  border-style: none;
+}
+/*
+.bm-social select {
+  float: right;
+  margin-top: 10%;
+  margin-right: 10%;
+  padding: .25em;
+  font-size: 1.2em;
+}*/
+
+.bm-social input {
+  padding: .25em;
+}
+
+.bm-mapimg {
+  max-width: 45%;
+  border: .25em outset #ccc0b0;
+  float: left;
+  margin-bottom: 180px;
+}
+
+.bm-mapimg img {
+  max-width: 100%;
+}
+
+.bm-mapimg p {
+  text-align: center;
+}
