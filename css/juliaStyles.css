@@ -43,6 +43,7 @@
 	max-height: 250px;
 	margin-left: 14%;
 	margin-top: 10px;
+	margin-bottom: 10px;
 	border: 1px solid #373737;
 }
 
@@ -91,7 +92,14 @@
 	margin-right: 13%;
 	font-size: 1.2em;
 }
-
+#pageWrapper {
+	background-color: #dcd0c0;
+	border: 2px solid #373737;
+	min-height: 600px;
+	padding: 5px;
+	margin: auto;
+	margin-bottom: 2em;
+}
 
 footer {
 	text-align: center;
