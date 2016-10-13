@@ -54,22 +54,22 @@ var productArray = [
     imgURL: 'http://gloimg.rosegal.com/rosegal/2015/201510/source-img/1444260653640-P-3219754.jpg',
   },
   {
-    productName: 'Ben',
-    description: 'one wig',
-    productPrice: '$ one million dollars',
-    imgURL: 'http://gloimg.rosegal.com/rosegal/2015/201510/source-img/1444260653640-P-3219754.jpg',
+    productName: 'Better Days Adult',
+    description: 'You\'re never too old to relive the "good ol\' days" with our Better Days Experience!<br><em>Covered by MediCare</em>',
+    productPrice: '$259.97',
+    imgURL: 'images/never-too-old.jpg',
   },
   {
-    productName: 'Ben',
-    description: 'one wig',
-    productPrice: '$ one million dollars',
-    imgURL: 'http://gloimg.rosegal.com/rosegal/2015/201510/source-img/1444260653640-P-3219754.jpg',
+    productName: 'Better Days Child',
+    description: 'The future is now with our Better Days Experience Child Edition!<br><em>Covered by most WIC programs</em>',
+    productPrice: '$65.37',
+    imgURL: 'images/never-too-young.jpg',
   },
   {
-    productName: 'Ben',
-    description: 'one wig',
-    productPrice: '$ one million dollars',
-    imgURL: 'http://gloimg.rosegal.com/rosegal/2015/201510/source-img/1444260653640-P-3219754.jpg',
+    productName: 'Model 241',
+    description: 'Our best seller in Portland! Put a bird on it with this outrageous combo deal!',
+    productPrice: '$598.71',
+    imgURL: 'images/two-for-one.jpg',
   }
 ];
 

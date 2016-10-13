@@ -1,19 +1,21 @@
 /*1. The entire card has a solid 1px border that is `lightblue`.*/
 .card {
+  background-color: #c0b283;
   margin-left: 2.333%;
   margin-bottom: 1%;
   width: 30%;
-  border: 1px solid lightblue;
+  border: .2em outset #d0c293;
   /*border-radius: .5em;*/
   float: left;
+  height: 600px;
 }
 
 /*1. The card title has a dotted 1px border that is `lightgray`.*/
 .card h1 {
-  padding: .5em;
-  border: 1px dotted lightgray;
-  margin: 0;
-  /*border-radius: .5em;*/
+  padding: .25em;
+  border: .2em inset #d0c293;
+  margin: .25em;
+  border-radius: .5em;
 }
 
 .img-product {
@@ -37,7 +39,8 @@
 }
 
 .pricing {
-  margin-top: -1em;
+  margin-top: 1em;
+  border-top: 3px solid #373737;
 }
 
 article:last-child {
