@@ -1,14 +1,6 @@
-# Static Web Group Project
+# Static Web Project
 
-As a team, build the web site for a fictitious product company. The team gets to decide what the name of the company is, and what types of products it manufactures. Be creative and have fun.
-
-## Setup
-
-Every teammate copy and run the following commands in the host machine terminal.
-
-```bash
-mkdir -p ~/workspace/group-projects && cd $_
-```
+Build the web site for a fictitious product company. The team gets to decide what the name of the company is, and what types of products it manufactures. Be creative and have fun.
 
 ## Requirements
 
